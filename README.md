@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <strong><span style="font-size: 45px;">Hi there, I'm Atieno Sandra 👋</span></strong>
 </p>
 
