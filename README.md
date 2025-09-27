@@ -1,5 +1,5 @@
 <p align="left">
-  <strong><span style="font-size: 45px;">Hi there, I'm Atieno Sandra 👋</span></strong>
+  <strong><span style="font-size: 55px;">Hi there, I'm Atieno Sandra 👋</span></strong>
 </p>
 
 
