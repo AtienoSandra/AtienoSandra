@@ -23,8 +23,6 @@ My toolkit includes:
 Every project shown here has been an eye-opener, sharpening my ability to uncover the truths data can reveal.
 *More coming soon*
 
-### 📌 Projects
-
 <details>
   <summary>🏥 Healthcare Patient Data Dashboard</summary>
   Simulated clinic dataset to track diagnoses, visit frequency, and payments. 
