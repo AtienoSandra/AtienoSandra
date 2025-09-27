@@ -63,15 +63,22 @@ When I’m not immersed in data:
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandraatieno/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/><br/>
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:atienosandy@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="55" height="55"/><br/>
-    Email
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.linkedin.com/in/sandraatieno/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/><br/>
+          LinkedIn
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="mailto:atienosandy@gmail.com">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55" height="55" alt="Email"/><br/>
+          Email
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
