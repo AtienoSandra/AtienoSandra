@@ -58,10 +58,7 @@ When I’m not immersed in data:
 - I love organizing people and things, making systems run smoother, and seeing lives touched by quality service in healthcare. 
 - I’m also a proud aunty, a lover of cars and shoes, and someone who finds peace in music.
 
-##🤙: **Connect with me**
-
-### 🌐 **Let’s Connect**
-## 📫 Connect with Me  
+## 🌐 **Let’s Connect**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandraatieno/" target="_blank">
@@ -76,7 +73,6 @@ When I’m not immersed in data:
   🔗 [LinkedIn](https://www.linkedin.com/in/sandraatieno/)  
   📧 [Email](mailto:atienosandy@gmail.com)
 </p>
-
 - [LinkedIn Profile](https://www.linkedin.com/in/sandraatieno/)  
 - [Email Me](mailto:atienosandy@gmail.com)
 
