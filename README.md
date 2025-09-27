@@ -1,6 +1,8 @@
 ### Hi there, I'm **Atieno Sandra** 👋  
 
 ##⭐<span style="color:teal; font-weight:bold">About Me</span>
+### ![About Me](https://img.shields.io/badge/About%20Me-teal?style=flat-square)
+
 
 I’m a **Data Analyst & Admin professional** with 5+ years in the healthcare sector. I thrive on transforming chaos into clarity—and if I can use data to do so, even better. To me, data isn’t just about spreadsheets and visuals; it's a symphony of stories that capture both the highs and lows of the human experience. I enjoy **discovering stories hidden in data**. *"Driven by Data Grounded in Care."*
 
