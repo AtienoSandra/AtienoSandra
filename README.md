@@ -11,7 +11,7 @@ My toolkit includes Excel, R, STATA and I'm currently on an exciting journey to 
 - Creating projects that combine **data + storytelling**, showing how numbers connect to real human experiences.  
 - Exploring **Monitoring & Evaluation (M&E)** projects that turn raw data into insights for better decision-making.  
 
-##📌 **Projects**
+## 📌 **Projects**
 *(Currently building my portfolio — here’s what’s coming!)*  
 
 #### 🏥 Healthcare Patient Data Dashboard  
@@ -26,7 +26,7 @@ Measuring teacher performance improvements (before vs. after feedback). SQL + Ex
 A collection of SQL queries and exercises (joins, CTEs, window functions) documenting my learning journey.  
 ➡️ Repo: *coming soon*  
 ---
-##✨: **Fun Facts**
+## ✨: **Fun Facts**
 When I’m not immersed in data:
 - I love organizing people and things, making systems run smoother, and seeing lives touched by quality service in healthcare. 
 - I’m also a proud aunty, a lover of cars and shoes, and someone who finds peace in music.
