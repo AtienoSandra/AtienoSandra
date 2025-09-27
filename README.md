@@ -23,9 +23,9 @@ Measuring teacher performance improvements (before vs. after feedback). SQL + Ex
 ➡️ Repo: *coming soon*  
 
 #### 💻 SQL Practice Hub  
-A collection of SQL queries and exercises (joins, CTEs, window functions) documenting my learning journey.  
+A collection of SQL queries and exercises (joins, CTEs, window functions) documenting my learning journey.
 ➡️ Repo: *coming soon*  
----
+
 ## ✨: **Fun Facts**
 When I’m not immersed in data:
 - I love organizing people and things, making systems run smoother, and seeing lives touched by quality service in healthcare. 
