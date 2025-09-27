@@ -25,6 +25,7 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
 
 <details>
   <summary>🏥 Healthcare Patient Data Dashboard</summary>
+  
   Simulated clinic dataset to track diagnoses, visit frequency, and payments. 
   
   **⚒️Tools:** Excel, R  
@@ -34,6 +35,7 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
 
 <details>
   <summary>📚 Education Impact Tracker</summary>
+  
   Measuring teacher performance improvements (before vs. after feedback). 
   
   **⚒️Tools:** SQL, Excel  
@@ -43,6 +45,7 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
 
 <details>
   <summary>💻 SQL Practice Hub</summary>
+  
   A collection of SQL queries and exercises documenting my learning journey. 
   
   **⚒️Tools:** SQL  
