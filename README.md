@@ -1,4 +1,4 @@
-### Hi there, I'm **Atieno Sandra** 👋  
+## Hi there, I'm **Atieno Sandra** 👋  
 
 ## ⭐ **About Me**
 
@@ -60,21 +60,20 @@ When I’m not immersed in data:
 
 ## 🌐 **Let’s Connect**
 
-<p align="left">
+## 📫 Connect with Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sandraatieno/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/><br/>
+    LinkedIn
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:atienosandy@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="55" height="55"/><br/>
+    Email
   </a>
 </p>
 
-<p align="left">
-  🔗 [LinkedIn](https://www.linkedin.com/in/sandraatieno/)  
-  📧 [Email](mailto:atienosandy@gmail.com)
-</p>
-- [LinkedIn Profile](https://www.linkedin.com/in/sandraatieno/)  
-- [Email Me](mailto:atienosandy@gmail.com)
 
 
 
