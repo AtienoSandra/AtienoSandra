@@ -60,8 +60,6 @@ When I’m not immersed in data:
 
 ## 🌐 **Let’s Connect**
 
-## 📫 Connect with Me  
-
 <p align="center">
   <table>
     <tr>
