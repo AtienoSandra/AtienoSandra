@@ -12,7 +12,7 @@ My toolkit includes:
   - STATA
   - Currently on an exciting journey to master SQL and Power BI. 
 
-## 🌱**What I’m working on**
+## 🌱**What I’m Working On:**
 
 - **Building a diverse portfolio** that touches different sectors — from education, gender, and social impact to healthcare operations.  
 - Growing my skills in **healthcare research & impact evaluation**, because that’s where my deepest passion lies.  
