@@ -1,8 +1,5 @@
 ## Hi there, I'm **Atieno Sandra** 👋
 
-<!--
-**AtienoSandra/AtienoSandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m a **Data Analyst & Admin professional** with 5+ years in the healthcare sector. I thrive on transforming chaos into clarity—and if I can use data to do so, even better. To me, data isn’t just about spreadsheets and visuals; it's a symphony of stories that capture both the highs and lows of the human experience. I enjoy ** discovering stories hidden in data**.
 ---
 ## 🧰 **Toolkit**
@@ -38,4 +35,4 @@ When I’m not immersed in data:
 - LinkedIn: [Sandra Atieno](https://www.linkedin.com/in/sandraatieno/)  
 - Email📧: atienosandy@gmail.com
 
--->
+
