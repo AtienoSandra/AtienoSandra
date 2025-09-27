@@ -1,6 +1,6 @@
 ### Hi there, I'm **Atieno Sandra** 👋  
 
-##⭐ **About Me**
+## ⭐ **About Me**
 
 I’m a **Data Analyst & Admin professional** with 5+ years in the healthcare sector. I thrive on transforming chaos into clarity—and if I can use data to do so, even better. To me, data isn’t just about spreadsheets and visuals; it's a symphony of stories that capture both the highs and lows of the human experience. I enjoy **discovering stories hidden in data**. *"Driven by Data Grounded in Care."*
 
@@ -61,15 +61,20 @@ When I’m not immersed in data:
 ##🤙: **Connect with me**
 
 ### 🌐 **Let’s Connect**
+## 📫 Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandraatieno/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:atienosandy@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/35/000000/new-post.png" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
   </a>
+</p>
+
+<p align="left">
+  🔗 [LinkedIn](https://www.linkedin.com/in/sandraatieno/)  
+  📧 [Email](mailto:atienosandy@gmail.com)
 </p>
 
 - [LinkedIn Profile](https://www.linkedin.com/in/sandraatieno/)  
