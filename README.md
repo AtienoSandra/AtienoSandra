@@ -1,7 +1,4 @@
-<p align="left">
-  <strong><span style="font-size: 90px;">Hi there, I'm Atieno Sandra 👋</span></strong>
-</p>
-
+**Hi there, I'm Atieno Sandra** 👋
 
 ## ⭐ **About Me**
 
