@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Atieno Sandra 👋</h1>
+<p align="center">
+  <strong><span style="font-size: 32px;">Hi there, I'm Atieno Sandra 👋</span></strong>
+</p>
+
 
 ## ⭐ **About Me**
 
