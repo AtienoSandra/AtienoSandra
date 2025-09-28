@@ -53,6 +53,15 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
   ➡️ Repo: *coming soon*  
 </details>
 
+<details>
+  <summary>💻 Google Data Analytics Capstone Project</summary>
+  
+  A capstone project as part of the fulfillment for the Google Data Analytics Course.
+  **⚒️Tools:** R
+  
+  ➡️ Repo:  
+</details>
+
 ## ✨**Fun Facts** 
 
 When I’m not immersed in data:
