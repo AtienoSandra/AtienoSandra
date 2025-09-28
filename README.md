@@ -54,12 +54,12 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
 </details>
 
 <details>
-  <summary>💻 Google Data Analytics Capstone Project</summary>
+  <summary>💪: Google Data Analytics Capstone Project</summary>
   
   A capstone project as part of the fulfillment for the Google Data Analytics Course.
   **⚒️Tools:** R
   
-  ➡️ Repo:  
+  ➡️ Repo:  https://github.com/AtienoSandra/google-data-analytics-capstone
 </details>
 
 ## ✨**Fun Facts** 
