@@ -58,7 +58,7 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
   
   A capstone project as part of the fulfillment for the Google Data Analytics Course.
   
-  **⚒️Tools:** <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo.svg" alt="RStudio" width="100"/>
+  **⚒️Tools:** R
   
   ➡️ Repo:  https://github.com/AtienoSandra/google-data-analytics-capstone
 </details>
