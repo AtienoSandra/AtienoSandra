@@ -44,11 +44,11 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
 </details>
 
 <details>
-  <summary>💻 SQL Practice Hub</summary>
+  <summary>💻 NYC Yellow Taxi 2024</summary>
   
   A collection of SQL queries and exercises documenting my learning journey. 
   
-  **⚒️Tools:** SQL  
+  **⚒️Tools:** DuckDB
   
   ➡️ Repo: *coming soon*  
 </details>
