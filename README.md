@@ -50,7 +50,7 @@ Every project shown here has been an eye-opener, sharpening my ability to uncove
   
   **⚒️Tools:** DuckDB
   
-  ➡️ Repo: *coming soon*  
+  ➡️ Repo:  https://github.com/AtienoSandra/NYC-Yellow-2024-case-study
 </details>
 
 <details>
