@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="border:none;margin:0;padding:0;">Hi there, I’m Sandra Atieno 👋</h2>
+  <p><strong><span style="font-size:1.5em;">Hi there, I’m Sandra Atieno 👋</span></strong></p>
 </div>
 
 ## ⭐ **About Me**
