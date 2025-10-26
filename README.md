@@ -1,6 +1,7 @@
 <div align="center">
-  <p><strong><span style="font-size:1.5em;">Hi there, I’m Sandra Atieno 👋</span></strong></p>
+  <span style="font-size:1.6em; font-weight:600;">Hi there, I’m Sandra Atieno 👋</span>
 </div>
+
 
 ## ⭐ **About Me**
 
