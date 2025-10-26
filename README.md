@@ -1,9 +1,4 @@
-<p align="center">
-<b>Hi there, I’m Sandra Atieno 👋</b><br>
-</p>
-
-
-
+#### Hey there, my name is Sandra 👋
 
 ## ⭐ **About Me**
 
