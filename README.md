@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size:1.6em; font-weight:600;">Hi there, I’m Sandra Atieno 👋</span>
+  <span style="font-size:3.2em; font-weight:600;">Hi there, I’m Sandra Atieno 👋</span>
 </div>
 
 
