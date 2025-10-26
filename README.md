@@ -1,4 +1,4 @@
-#### Hey there, my name is Sandra 👋
+### Hey there, my name is Sandra 👋
 
 ## ⭐ **About Me**
 
