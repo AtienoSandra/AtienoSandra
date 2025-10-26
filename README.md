@@ -1,7 +1,6 @@
 <div align="center">
-  <strong>Hi there, I’m Sandra Atieno 👋</strong>
+  <h2 style="border:none;margin:0;padding:0;">Hi there, I’m Sandra Atieno 👋</h2>
 </div>
-
 
 ## ⭐ **About Me**
 
