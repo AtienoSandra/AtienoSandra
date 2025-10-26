@@ -1,4 +1,4 @@
-## Hi there, I'm Atieno Sandra 👋 ##
+<h2 style="border-bottom: none;">Hi there, I am Sandra Atieno 👋</h2>
 
 ## ⭐ **About Me**
 
