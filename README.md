@@ -1,8 +1,7 @@
-<div align="center">
+<p align="center">
+<b>Hi there, I’m Sandra Atieno 👋</b><br>
+</p>
 
-## Hi there, I’m Sandra Atieno 👋
-
-</div>
 
 
 
